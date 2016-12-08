@@ -11,3 +11,9 @@ To read the PDF, I recommend [Skim](http://skim-app.sourceforge.net/) if you're 
 # (Free) Resources Mentioned in the Book
 
 - [Understanding Node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
+- [Martin Fowler on Dependency Injection](http://martinfowler.com/articles/injection.html)
+- [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+
+# Other Helpful Resources
+
+- [ES6 Syntax](http://es6-features.org/#Constants)

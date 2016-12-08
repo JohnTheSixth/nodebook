@@ -1,5 +1,6 @@
-'use strict'; // requires ES6 syntax
+'use strict'; // enforces strict syntax mode
 
 const server = require('./server');
+const router = require('./router');
 
-server.start();
+server.start(router.route);
