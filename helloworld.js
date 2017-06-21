@@ -1,6 +1,4 @@
-'use strict';
-
-const http = require('http');
+var http = require('http');
 
 function sayHi(request, response) {
   console.log('Request received.');

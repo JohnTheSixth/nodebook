@@ -2,7 +2,7 @@
 
 This repo is my work as I follow along in Manuel Kiessling's [Node Beginner Book](http://www.nodebeginner.org/).
 
-Also included is a bunch of my messing around with random JS stuff that I think will make things better, but is probably unnecessary (like `use strict` for ES6 syntax).
+In keeping with the style of the book, I'm only writing in vanilla JS, rather than any fancy ES5/6.
 
 The book is a great intro to Node.js, and I recommend anyone wanting to learn the basics of building a Node application [support the author and buy it](https://leanpub.com/nodebeginner).
 
